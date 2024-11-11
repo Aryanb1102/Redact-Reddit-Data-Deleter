@@ -11,12 +11,7 @@ A simple tool to help users delete their Reddit posts and comments efficiently, 
 - **Python 3.x**
 - **PRAW** (Python Reddit API Wrapper)
 
-Install PRAW by running:
-```bash
-pip install praw
-
-
-Setup
+- Setup
 Create a Reddit Application:
 Go to Reddit App Preferences.
 Create a new app to get the Client ID and Client Secret.
@@ -33,5 +28,12 @@ Run the script from the command line:
 bash
 Copy code
 python reddit_data_deleter.py
-The script will begin deleting all posts and comments from your Reddit account.
-Note: Ensure you have the correct credentials and have tested this tool on a test account before using it on your main Reddit account, as deletions are permanent.
+
+
+
+Install PRAW by running:
+```bash
+pip install praw
+
+
+
