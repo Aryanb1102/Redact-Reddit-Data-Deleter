@@ -9,7 +9,6 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -30,11 +29,6 @@
 - **Rate Limit Handling**: Automatically manages Reddit API rate limits to prevent interruptions.
 - **Logging**: Keeps a log of deleted items for your reference.
 
-## Demo
-
-![Redact Demo](screenshots/demo.png)
-
-*Screenshot showcasing the Redact user interface and deletion process.*
 
 ## Installation
 
